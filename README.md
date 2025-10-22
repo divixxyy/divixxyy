@@ -16,8 +16,8 @@ making this just for pony.town, if i dont respond just whisp!<br>
     <td>叫黄日 / 他/她/TA</td>
   </tr>
   <tr>
-    <td>age: 20</td>
-    <td>多大了：20岁</td>
+    <td>age: 21</td>
+    <td>多大了：21岁</td>
   </tr>
   <tr>
     <td>special interests: <strong>ateez</strong>, <strong>tgcf</strong>, and k-pop</td>
